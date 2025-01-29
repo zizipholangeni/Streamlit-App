@@ -1,0 +1,18 @@
+common_column,Gender_x,Parents Name,Parents Education,Maths,Reading,Writing,Gender_y,Sleep Time,Social Media,Food,Test Prep
+James,M,Mechelle Stoneman,bachelor's degree,83,93,95,M,6,5.0,standard,none
+John,M,Tyesha Freitag,some college,61,68,66,M,7,0.0,free/reduced,none
+Robert,M,Dean Stoecker,some high school,76,70,69,M,8,2.0,standard,completed
+Michael,M,Annelle Pickney,associate's degree,49,51,43,M,7,0.0,standard,none
+William,M,Margareta Tacy,some high school,24,38,27,M,6,1.0,free/reduced,none
+Mary,F,Meghann Placencia,some high school,35,55,60,F,8,2.0,free/reduced,completed
+David,M,Kendrick Cieslak,high school,58,61,52,M,7,1.0,free/reduced,none
+Joseph,M,Polly Isenberg,high school,61,73,63,M,8,2.0,standard,none
+Richard,M,Evelyne Racicot,high school,69,76,74,M,6,1.0,standard,completed
+Charles,M,Augustus Delaune,associate's degree,67,72,67,M,7,2.0,standard,completed
+Thomas,M,Shawanda Client,some college,79,73,67,M,8,1.0,standard,none
+Christopher,M,Loura Coffield,high school,72,80,75,M,7,3.0,standard,none
+Daniel,M,Lorriane Machin,some college,62,61,57,M,8,4.0,standard,none
+Matthew,M,Lacey Osier,bachelor's degree,77,94,95,M,6,1.0,standard,completed
+Elizabeth,F,Nicki Malchow,high school,75,74,66,F,8,4.0,free/reduced,none
+Patricia,F,Sidney Bodiford,associate's degree,87,74,76,F,7,2.0,standard,none
+Jennifer,F,Barbie Cun,bachelor's degree,52,65,69,F,6,1.0,standard,none
