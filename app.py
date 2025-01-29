@@ -5,7 +5,7 @@ import seaborn as sns
 import plotly.express as px
 
 # Load your cleaned dataset
-df = pd.read_csv('cleaned_data.csv')
+df = pd.read_csv('cleaned_combined_dataset.csv')
 
 # Title of the Streamlit app
 st.title('Data Insights Dashboard')
