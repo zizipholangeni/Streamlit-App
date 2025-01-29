@@ -1,0 +1,380 @@
+"common_column,Gender_x,Parents Name,Parents Education,Maths,Reading,Writing,Gender_y,Sleep Time,Social Media,Food,Test Prep
+James,M,Mechelle Stoneman,bachelor's degree,83,93,95,M,6,5.0,standard,none
+John,M,Tyesha Freitag,some college,61,68,66,M,7,0.0,free/reduced,none Robert,M,Dean Stoecker,some high school,76,70,69,M,8,2.0,standard,completed
+Michael,M,Annelle Pickney,associate's degree,49,51,43,M,7,0.0,standard,none William,M,Margareta Tacy,some high school,24,38,27,M,6,1.0,free/reduced,none Mary,F,Meghann Placencia,some high school,35,55,60,F,8,2.0,free/reduced,completed
+David,M,Kendrick Cieslak,high school,58,61,52,M,7,1.0,free/reduced,none Joseph,M,Polly Isenberg,high school,61,73,63,M,8,2.0,standard,none Richard,M,Evelyne Racicot,high school,69,76,74,M,6,1.0,standard,completed Charles,M,Augustus Delaune,associate's degree,67,72,67,M,7,2.0,standard,completed
+Thomas,M,Shawanda Client,some college,79,73,67,M,8,1.0,standard,none Christopher,M,Loura Coffield,high school,72,80,75,M,7,3.0,standard,none Daniel,M,Lorriane Machin,some college,62,61,57,M,8,4.0,standard,none Matthew,M,Lacey Osier,bachelor's degree,77,94,95,M,6,1.0,standard,completed
+Elizabeth,F,Nicki Malchow,high school,75,74,66,F,8,4.0,free/reduced,none Patricia,F,Sidney Bodiford,associate's degree,87,74,76,F,7,2.0,standard,none
+Jennifer,F,Barbie Cun,bachelor's degree,52,65,69,F,6,1.0,standard,none Anthony,M,Elden Hanshaw,some college,66,57,52,M,9,5.0,standard,none George,M,Blossom Loggins,some college,63,78,80,M,7,1.0,standard,completed Linda,F,Joseph Dennie,associate's degree,46,58,57,F,8,3.0,standard,none Barbara,F,Pattie Markley,some college,59,71,70,F,9,6.0,standard,none Donald,M,Genevieve Spahn,bachelor's degree,61,72,70,M,7,5.0,standard,none Paul,M,Luciano Jaworski,associate's degree,63,61,61,M,8,2.0,standard,none Mark,M,Noe Mahler,some college,42,66,69,M,9,1.0,free/reduced,completed Andrew,M,Karri Bransford,some college,59,62,61,M,5,1.0,free/reduced,none Steven,M,Larae Bonney,some college,80,90,89,M,7,4.0,standard,none Kenneth,M,Sharita Fierros,high school,58,62,59,M,8,5.0,standard,none Edward,M,Frederica Perla,some high school,85,84,78,M,9,2.0,standard,completed
+Joshua,M,Mara Elder,some college,52,58,58,M,7,2.0,standard,none Margaret,F,Enola Volz,some high school,27,34,32,F,8,1.0,free/reduced,none Brian,M,Leslie Mccardell,some college,59,60,58,M,7,2.0,standard,none Kevin,M,Gina Coria,bachelor's degree,49,58,60,M,5,3.0,free/reduced,completed
+Jessica,F,Marietta Taing,high school,69,58,53,F,6,6.0,standard,completed Sarah,F,Karlyn Buchholtz,bachelor's degree,61,66,61,F,7,1.0,free/reduced,none
+Susan,F,Herma Renken,some high school,44,64,58,F,8,2.0,free/reduced,none Timothy,M,Gertrud Gillispie,some high school,73,84,85,M,5,3.0,standard,none
+Dorothy,F,Kelsie Lavoie,some college,84,77,71,F,6,1.0,standard,none Jason,M,Selena Jenney,some college,45,73,70,M,9,2.0,free/reduced,completed
+Ronald,M,Teri Schooley,some high school,74,74,72,M,7,3.0,standard,none Helen,F,Lizette Campana,some college,82,97,96,F,6,5.0,standard,completed
+Ryan,M,Mayra Luby,bachelor's degree,59,70,73,M,9,4.0,standard,none"
+
+"Jeffrey,M,Luisa Finneran,associate's degree,46,43,41,M,7,1.0,free/reduced,none
+Karen,F,Genoveva Herrod,some high school,80,90,82,F,8,2.0,standard,none Nancy,F,Tandra Toon,master's degree,85,95,100,F,9,2.0,free/reduced,completed
+Betty,F,Zoe Mangrum,some high school,71,83,77,F,7,1.0,standard,none Lisa,F,Marquerite Salaam,bachelor's degree,66,64,62,F,8,4.0,standard,none Jacob,M,Alva Fonte,associate's degree,80,86,83,M,9,2.0,standard,none Nicholas,M,Maudie Cage,associate's degree,87,100,95,M,5,1.0,standard,completed
+Ashley,F,Hilde Greaves,master's degree,79,81,71,F,7,2.0,free/reduced,none Eric,M,Christiana Rippe,some high school,38,49,45,M,8,1.0,free/reduced,none
+Frank,M,Bulah Warr,some high school,38,43,43,M,9,3.0,free/reduced,none Gary,M,Azzie Stolte,some college,67,76,75,M,7,1.0,standard,none Anna,F,Sharri Whistler,bachelor's degree,64,73,70,F,8,2.0,standard,none Stephen,M,Rebecka Holliman,associate's degree,57,78,67,M,7,1.0,free/reduced,none
+Jonathan,M,Bryce Muse,high school,62,64,64,M,5,3.0,standard,none Sandra,F,Merideth Marcus,master's degree,73,70,75,F,6,1.0,standard,none Emily,F,Nova Boden,some high school,73,67,59,F,7,2.0,free/reduced,completed
+Amanda,F,Granville Watchman,some college,77,68,77,F,8,4.0,standard,none Kimberly,F,Marquerite Dearborn,some college,76,67,67,F,5,5.0,standard,none
+Michelle,F,Arielle Ketcham,associate's degree,57,54,56,F,6,2.0,standard,completed
+Donna,F,Shona Buggs,some high school,65,74,77,F,9,1.0,standard,completed Justin,M,Aleta Ciesla,high school,48,45,41,M,8,4.0,free/reduced,none Laura,F,Jenni Wichman,high school,50,67,63,F,7,1.0,free/reduced,none Ruth,F,Cuc Phinney,associate's degree,85,89,95,F,6,2.0,standard,none Carol,F,Danica Fleig,some high school,74,63,57,F,9,3.0,standard,none Brandon,M,Shaquana Emigh,some high school,60,59,54,M,8,2.0,standard,none Larry,M,Brinda Master,some high school,59,54,67,M,7,4.0,standard,completed
+Scott,M,Janell Hinojos,some college,53,43,43,M,8,1.0,standard,none Melissa,F,Karri Celestin,some college,49,65,55,F,7,2.0,free/reduced,none Stephanie,F,Enid Bouley,high school,88,99,100,F,8,1.0,standard,completed Benjamin,M,Desire Klenke,high school,54,59,62,M,9,2.0,standard,none Raymond,M,Brian Chamberlain,some high school,63,73,68,M,8,3.0,standard,none
+Samuel,M,Kristeen Farabaugh,associate's degree,65,65,63,M,7,4.0,standard,completed
+Rebecca,F,Gilda Vanatta,associate's degree,82,80,77,F,6,5.0,standard,none Deborah,F,Princess Bumbrey,high school,52,57,56,F,6,6.0,free/reduced,completed
+Gregory,M,Earlie Townson,associate's degree,87,84,85,M,7,4.0,standard,completed Sharon,F,Fumiko Laliberte,master's degree,70,71,74,F,8,1.0,standard,completed
+Kathleen,F,Sherie Chason,some college,84,83,78,F,6,4.0,standard,completed Amy,F,Gricelda Maravilla,associate's degree,71,66,60,F,9,5.0,standard,none
+Cynthia,F,Serafina Knoll,some high school,63,67,67,F,6,1.0,standard,completed Alexander,M,Sachiko Younkin,bachelor's degree,51,72,79,M,7,2.0,free/reduced,completed
+Patrick,M,Jena Noles,high school,84,73,69,M,8,3.0,standard,none"
+
+"Jack,M,Shelby Wiser,bachelor's degree,71,74,68,M,7,2.0,standard,completed Henry,M,Margareta Spies,associate's degree,74,73,67,M,8,4.0,standard,none Angela,F,Dinorah Furey,some college,68,59,62,F,8,1.0,standard,none Shirley,F,Kiyoko Lechuga,high school,57,56,54,F,7,5.0,free/reduced,completed
+Emma,F,Danny Kreger,associate's degree,82,93,93,F,6,6.0,free/reduced,completed
+Catherine,F,Nolan Fenwick,high school,57,58,64,F,7,2.0,standard,completed Katherine,F,Lesli Unrein,master's degree,47,58,67,F,8,1.0,free/reduced,completed
+Virginia,F,Donya Bartle,some high school,59,85,80,F,7,3.0,standard,completed
+Nicole,F,Palma Flanery,some college,41,39,34,F,6,2.0,free/reduced,none Dennis,M,Kenny Clothier,some college,62,67,62,M,6,1.0,free/reduced,none Walter,M,Kristen Lossing,bachelor's degree,86,83,86,M,7,4.0,standard,none Tyler,M,Karoline Felix,some high school,69,71,65,M,9,5.0,free/reduced,none
+Peter,M,Alan Voll,some high school,65,59,53,M,7,2.0,free/reduced,none Brenda,F,Glenda Woolfolk,some high school,68,63,54,F,8,2.0,free/reduced,none
+Aaron,M,Alyson Hosack,associate's degree,64,66,59,M,9,1.0,free/reduced,none
+Jerry,M,Francis Sines,high school,61,72,70,M,7,2.0,standard,none Christine,F,Riley Bagnall,high school,61,56,55,F,8,4.0,standard,none Samantha,F,Carmina Camp,some high school,47,59,50,F,9,5.0,free/reduced,none
+Adam,M,Alethia Tiemann,some high school,73,66,66,M,5,2.0,standard,none Rachel,F,Deborah Molinar,some college,50,48,53,F,7,1.0,free/reduced,completed
+Pamela,F,Marvella Huckstep,associate's degree,75,68,64,F,8,4.0,standard,none Frances,F,Sallie Briley,associate's degree,75,66,73,F,9,3.0,free/reduced,none
+Nathan,M,Scottie Backer,high school,70,56,51,M,7,6.0,standard,none Douglas,M,Beatriz Kinsey,some high school,89,88,82,M,8,2.0,standard,completed
+Heather,F,Mason Carrow,some college,67,81,79,F,7,4.0,standard,completed Evelyn,F,Regenia Blish,high school,78,81,80,F,5,5.0,standard,none Jose,M,Necole Faria,some high school,59,73,69,M,6,6.0,free/reduced,none Alice,F,Samantha Hadfield,associate's degree,73,83,76,F,7,2.0,standard,none
+Janet,F,Lida Sing,some high school,79,82,73,F,8,1.0,free/reduced,none Maria,F,Bette Church,some high school,67,74,77,F,5,2.0,standard,completed Zachary,M,Illa Friscia,some college,69,66,60,M,6,5.0,free/reduced,none Carolyn,F,Magdalena Clabaugh,high school,86,81,80,F,9,4.0,standard,completed
+Debra,F,Sol Lemley,high school,47,46,42,F,6,2.0,standard,none Harold,M,Angelyn Nave,associate's degree,81,73,72,M,7,3.0,standard,none Martha,F,Lorie Hempstead,some college,64,85,85,F,8,6.0,free/reduced,completed
+Marie,F,Darlena Brubaker,some college,100,92,97,F,7,4.0,standard,none Arthur,M,Ivory Almonte,associate's degree,65,77,74,M,8,1.0,free/reduced,none
+Julie,F,Keva Sauage,some college,65,58,49,F,7,2.0,free/reduced,none Kyle,M,Krystin Morita,associate's degree,53,61,62,M,6,3.0,free/reduced,none
+Diane,F,Margarito Hintzen,bachelor's
+degree,37,56,47,F,9,6.0,free/reduced,none"
+
+"Christina,F,Alanna Gillispie,bachelor's degree,79,89,89,F,8,5.0,standard,none Victoria,F,Alayna Rosenblatt,associate's degree,53,54,48,F,7,4.0,free/reduced,none Joyce,F,Deeann Thomsen,bachelor's degree,100,100,100,F,6,1.0,standard,none
+Carl,M,Guy Moulton,high school,72,65,68,M,8,2.0,standard,completed Lauren,F,Ming Scudder,bachelor's degree,53,58,55,F,7,1.0,free/reduced,none
+Grace,F,Mickey Espino,some college,54,54,45,F,8,1.0,free/reduced,none Albert,M,Lesia Stoute,some college,77,90,91,M,6,5.0,free/reduced,none Rose,F,Pauletta Murton,bachelor's degree,75,58,62,F,7,4.0,standard,completed
+Megan,F,Solomon Chamberlin,some college,84,87,91,F,9,1.0,standard,none Joan,F,Neville Yocom,associate's degree,26,31,38,F,7,3.0,free/reduced,none
+Jeremy,M,Vera Edmiston,high school,72,67,65,M,7,6.0,free/reduced,completed Ann,F,Lawerence Amburn,high school,77,88,85,F,8,4.0,free/reduced,completed
+Julia,F,Cedrick Agnew,some college,91,74,76,F,5,1.0,standard,none Kathryn,F,Melinda Kuchta,associate's degree,83,85,90,F,7,2.0,standard,completed
+Lawrence,M,Alma Gelinas,high school,63,69,74,M,8,2.0,standard,none Olivia,F,Francis Sikes,associate's degree,68,86,84,F,9,1.0,standard,completed
+Judith,F,Minerva Giles,some high school,59,67,61,F,8,4.0,standard,none Doris,F,Nikki Iskra,associate's degree,90,90,91,F,7,5.0,standard,completed
+Jean,F,Lore Coil,bachelor's degree,71,76,83,F,6,3.0,standard,completed Andrea,F,Marlena Craner,bachelor's degree,76,62,66,F,5,2.0,standard,completed
+Gerald,M,Darius Trojacek,associate's degree,80,68,72,M,7,4.0,standard,none
+Sean,M,Sade Gasaway,master's degree,55,64,70,M,1,1.0,standard,none Joe,M,Sybil Rahman,associate's degree,76,71,67,M,0,2.0,standard,none Keith,M,Zoraida Sumner,high school,73,71,68,M,7,1.0,standard,completed Sara,F,Raina Mccrae,associate's degree,52,59,56,F,7,2.0,free/reduced,none Cheryl,F,Elsa Mcspadden,some college,68,68,61,F,8,1.0,free/reduced,none Hannah,F,Bernadine Chung,high school,59,52,46,F,6,2.0,standard,none Mildred,F,Francie Frase,associate's degree,49,52,54,F,7,1.0,standard,none Lillian,F,Nakita Primer,some college,61,47,56,F,8,4.0,free/reduced,none Roger,M,Aletha Hardesty,associate's degree,60,75,74,M,7,1.0,free/reduced,none
+Jesse,M,Dwain Sargeant,some high school,64,53,57,M,8,5.0,standard,completed Jacqueline,F,Thea Hubbs,associate's degree,79,82,82,F,7,2.0,free/reduced,completed Ethan,M,Caleb Peters,associate's degree,65,85,76,M,6,1.0,free/reduced,none
+Christian,M,Narcisa Hsieh,some college,83,83,90,M,8,1.0,standard,none Harry,M,Sherwood Vanalstyne,bachelor's degree,81,88,90,M,9,2.0,standard,none
+Teresa,F,Jeanice Joy,high school,54,64,68,F,6,5.0,standard,none Austin,M,Bert Riter,high school,68,64,66,M,7,1.0,standard,completed Gloria,F,Dorotha Aldinger,some college,54,48,52,F,8,2.0,standard,none Ralph,M,Anisha Thomson,some
+college,59,78,76,M,9,2.0,free/reduced,completed"
+
+"Janice,F,Rufus Amerine,some high school,66,69,68,F,6,1.0,standard,none Roy,M,Roslyn Alaimo,some college,76,71,72,M,5,2.0,standard,none Theresa,F,Noelle Raybon,master's degree,74,79,82,F,7,1.0,standard,none Amber,F,Shanae Hanger,associate's degree,94,87,92,F,8,2.0,standard,completed
+Danielle,F,William Hopf,some college,63,61,54,F,9,1.0,free/reduced,none Noah,M,Adolfo Bella,associate's degree,95,89,92,M,9,2.0,standard,completed
+Bryan,M,Xenia Schubert,master's degree,40,59,54,M,7,1.0,free/reduced,none Louis,M,Hal Bender,high school,68,70,66,M,9,4.0,standard,none Brittany,F,Geraldine Border,bachelor's degree,55,59,54,F,7,1.0,free/reduced,none
+Bruce,M,Setsuko Pardo,master's degree,79,78,77,M,8,3.0,standard,none Madison,F,Meghan Sydnor,bachelor's degree,86,92,87,F,9,2.0,standard,none Judy,F,Lavern Gard,some college,76,71,73,F,5,1.0,standard,none Billy,M,Cyrus Beckham,some high school,64,50,43,M,7,5.0,standard,none Dylan,M,Leeanne Fortunato,some high school,62,49,52,M,8,1.0,free/reduced,none
+Denise,F,Nilda Deyoung,some high school,54,61,62,F,9,3.0,standard,completed Beverly,F,Marylee Greenburg,master's degree,77,97,94,F,7,6.0,free/reduced,completed
+Eugene,M,Gay Aubert,some high school,76,87,85,M,8,4.0,standard,completed Jane,F,Janel Carley,some college,74,89,84,F,7,2.0,standard,none Marilyn,F,Damaris Nestle,some college,66,74,73,F,6,1.0,standard,completed Abigail,F,Jeanine Hoerr,some high school,66,78,78,F,8,1.0,standard,completed
+Diana,F,Wiley Scotto,high school,67,78,79,F,7,4.0,free/reduced,completed Charlotte,F,Dian Cobian,some college,71,49,52,F,8,5.0,standard,none Natalie,F,Brendan Zilnicki,associate's degree,91,86,84,F,7,2.0,standard,none
+Tiffany,F,Mana Seegmiller,bachelor's degree,69,58,57,F,6,5.0,standard,none
+Wayne,M,Flavia Nitta,master's degree,54,59,50,M,7,1.0,free/reduced,none Russell,M,Humberto Ware,high school,53,52,49,M,9,2.0,standard,completed Alan,M,Ned Permenter,some college,68,60,59,M,7,3.0,standard,none Crystal,F,Albertina Junkin,some high school,56,61,60,F,7,6.0,free/reduced,completed
+Sophia,F,Rosia Duron,high school,36,53,43,F,8,1.0,free/reduced,none Irene,F,Kena Stallings,bachelor's degree,29,41,47,F,5,2.0,free/reduced,none
+Juan,M,Lolita Pringle,associate's degree,62,74,70,M,7,4.0,standard,none Ruby,F,Kristen Gilley,associate's degree,68,67,73,F,8,1.0,standard,completed
+Gabriel,M,Genaro Koga,some high school,47,54,53,M,9,2.0,standard,none Philip,M,Suzanna Putman,associate's degree,62,61,58,M,8,3.0,standard,completed
+Annie,F,Candy Konieczny,associate's degree,79,88,94,F,7,5.0,standard,completed
+Kayla,F,Ozella Conner,high school,73,69,68,F,6,4.0,standard,completed Vincent,M,Leonel Hock,bachelor's degree,66,83,83,M,5,1.0,free/reduced,completed
+Lori,F,Vannesa Millard,associate's degree,51,60,58,F,7,2.0,standard,completed
+Howard,M,Melonie Villacorta,high school,51,66,62,M,1,2.0,standard,none Erin,F,Bridget Conyers,associate's degree,97,92,86,F,7,4.0,standard,completed
+Fred,M,Jacklyn Dyment,high school,75,69,68,M,7,2.0,standard,completed"
+
+"Logan,M,Felicita Maclachlan,associate's degree,79,82,80,M,8,1.0,free/reduced,completed Isabella,F,Herbert Gamache,associate's degree,81,77,79,F,6,2.0,standard,none Tammy,F,Antonietta Llewellyn,associate's degree,82,95,89,F,7,1.0,standard,none
+Louise,F,Pennie Alling,master's degree,64,63,66,F,7,3.0,standard,none Florence,F,Laree Kay,some high school,78,83,80,F,8,1.0,free/reduced,completed
+Randy,M,Antonio Navarette,some high school,92,100,97,M,7,2.0,standard,completed
+Bradley,M,Steve Mainor,high school,72,67,64,M,8,1.0,standard,completed Kathy,F,Gertrud Sather,high school,62,67,64,F,7,3.0,free/reduced,none Lois,F,Nan Beverley,master's degree,79,72,69,F,6,1.0,standard,none Anne,F,Walter Belford,some high school,79,76,65,F,7,2.0,free/reduced,none Bonnie,F,Colby Hobart,bachelor's degree,87,90,88,F,8,4.0,free/reduced,completed
+Victor,M,Patrick Nocera,associate's degree,40,48,50,M,9,5.0,standard,none Travis,M,Elke Licht,associate's degree,53,45,40,M,7,1.0,standard,none Phyllis,F,Faustina Dunson,some college,32,39,33,F,8,4.0,free/reduced,none Shawn,M,Tara Clingman,associate's degree,55,72,79,M,9,1.0,standard,completed
+Phillip,M,Elva Hochmuth,master's degree,61,67,66,M,6,2.0,free/reduced,none
+Martin,M,Maryln Ferris,some high school,73,66,62,M,7,2.0,standard,none Johnny,M,Katrina Almon,some college,74,75,79,M,8,4.0,standard,completed Craig,M,Stephane Labelle,some college,63,74,74,M,9,1.0,standard,none Allison,F,Christene Gloria,bachelor's degree,96,90,92,F,9,2.0,standard,completed
+Bobby,M,Araceli Majewski,some college,63,80,80,M,7,1.0,free/reduced,completed Alyssa,F,Marilou Funderburg,bachelor's degree,48,51,46,F,8,2.0,free/reduced,none
+Ella,F,America Tocci,associate's degree,48,43,45,F,9,3.0,standard,none Josephine,F,Erich Ragin,bachelor's degree,92,100,100,F,7,4.0,free/reduced,completed
+Ernest,M,Neoma Pellegrino,master's degree,61,71,78,M,8,5.0,free/reduced,completed
+Stanley,M,Sid Lamore,high school,63,48,47,M,9,6.0,free/reduced,none Cody,M,Stella Morman,bachelor's degree,68,68,67,M,5,4.0,free/reduced,none Clarence,M,Ha Durrah,some college,71,75,70,M,7,1.0,standard,completed Tina,F,Chantel Absher,bachelor's degree,91,96,92,F,8,4.0,standard,none Elijah,M,Torri Wert,some college,53,62,56,M,9,5.0,standard,none Leonard,M,Michelina Holscher,high school,50,66,64,M,7,1.0,free/reduced,completed
+Carlos,M,Verlene Arviso,high school,74,81,71,M,8,2.0,standard,none Dawn,F,Lois Tew,associate's degree,40,55,53,F,5,3.0,free/reduced,completed
+Robin,F,Miguelina Hoyte,some college,61,51,52,F,6,2.0,standard,completed Edna,F,Evelina Willaert,high school,81,91,89,F,9,4.0,standard,none Cameron,M,Ranae Topp,some college,48,56,58,M,7,1.0,free/reduced,completed Peggy,F,Carolann Veasley,master's degree,53,61,68,F,6,5.0,standard,none Caleb,M,Jeannette Gravelle,some high school,81,97,96,M,9,6.0,standard,none
+Eleanor,F,Lenita Slevin,some high school,77,79,80,F,7,2.0,standard,none Isaac,M,Valentina Quinby,bachelor's
+degree,63,73,78,M,8,1.0,free/reduced,none"
+
+"Todd,M,Latoyia Bushway,associate's degree,73,75,80,M,9,3.0,standard,completed
+Earl,M,Flora Plascencia,associate's degree,65,76,76,M,8,1.0,standard,none Francis,M,Azucena Herder,high school,55,73,73,M,9,4.0,standard,none Jimmy,M,Kathi Lilienthal,bachelor's degree,44,63,62,M,5,5.0,free/reduced,none
+Mason,M,Andrea Saine,some college,54,64,65,M,7,2.0,standard,none Danny,M,Shawna Riviera,some high school,48,66,65,M,8,0.0,standard,none Audrey,F,Nolan Harwell,some college,58,57,54,F,9,1.0,free/reduced,none Rita,F,Jennell Leverich,some high school,71,62,50,F,7,2.0,standard,none Luke,M,Birgit Puente,bachelor's degree,68,68,64,M,8,4.0,standard,none Dale,M,Gerry Medal,high school,74,76,73,M,7,5.0,standard,none Alex,M,Palma Sample,bachelor's degree,92,100,99,M,5,2.0,standard,completed
+Paula,F,Annalisa Rotolo,bachelor's degree,56,79,72,F,6,1.0,standard,completed
+Clara,F,Eilene Jolly,high school,30,24,15,F,7,4.0,free/reduced,none Wanda,F,Kathey Keep,some high school,53,54,48,F,8,3.0,standard,none Joel,M,Fanny Dutra,high school,69,77,73,M,5,6.0,standard,none Evan,M,Leanne Proto,some high school,65,82,81,M,6,2.0,standard,none Norma,F,Traci Heier,master's degree,54,60,63,F,9,4.0,standard,none Luis,M,Jennette Everett,high school,29,29,30,M,8,5.0,standard,none Courtney,F,Levi Sharpton,some college,76,78,80,F,7,6.0,standard,none Ethel,F,Jackson Sills,high school,60,57,51,F,6,2.0,free/reduced,none Nathaniel,M,Fabiola Virden,master's degree,84,89,90,M,9,1.0,free/reduced,completed
+Wendy,F,Wan Zajac,some high school,75,72,62,F,8,2.0,standard,none Ellen,F,Franklin Kruger,associate's degree,85,84,82,F,7,5.0,standard,none Marjorie,F,Yolonda Jorgenson,some college,61,64,62,F,7,2.0,standard,none Vanessa,F,Kraig Grove,associate's degree,58,63,65,F,8,3.0,standard,none Allen,M,Joanna Westman,some college,69,60,63,M,9,6.0,free/reduced,completed
+Valerie,F,Luetta Wyse,some college,58,59,66,F,8,4.0,standard,none Carrie,F,Nana Neilsen,bachelor's degree,94,90,91,F,7,1.0,standard,completed
+Ava,F,Elidia Gillett,associate's degree,65,77,74,F,6,2.0,standard,none Eva,F,Lien Brigmond,associate's degree,82,93,93,F,7,3.0,standard,none Frederick,M,Meaghan Majeed,high school,60,68,72,M,8,6.0,standard,none Curtis,M,Dominica Lanterman,bachelor's degree,37,45,38,M,9,5.0,standard,none
+Edith,F,Cami Ryals,bachelor's degree,88,78,83,F,7,4.0,standard,none Connie,F,Caroline Fleischer,master's degree,95,81,84,F,5,1.0,standard,none
+Lucas,M,Joyce Pleasant,associate's degree,65,73,68,M,6,2.0,free/reduced,completed
+Gladys,F,Kyung Hearne,high school,35,61,54,F,8,0.0,free/reduced,none Cindy,F,Ranee Boomhower,bachelor's degree,62,63,56,F,9,1.0,free/reduced,none
+Elaine,F,Benton Duty,some college,100,96,86,F,8,5.0,standard,completed Hazel,F,Margrett Hanks,bachelor's degree,61,58,62,F,9,4.0,free/reduced,none
+Monica,F,Sherwood Lingenfelter,some college,100,97,99,F,7,1.0,standard,completed Norman,M,Livia Starr,associate's degree,69,70,63,M,6,3.0,free/reduced,completed
+Esther,F,Edna Holt,associate's degree,61,48,46,F,7,6.0,standard,none
+Melanie,F,Denise Balser,some college,49,57,46,F,5,4.0,free/reduced,none"
+
+"Brianna,F,Rolf Galley,some high school,44,51,55,F,8,1.0,standard,completed
+Antonio,M,Enedina Mika,some college,67,64,70,M,5,2.0,standard,none Jasmine,F,Brandon Authement,high school,79,60,65,F,6,0.0,standard,none Chad,M,Afton Dees,bachelor's degree,66,74,81,M,9,1.0,standard,completed Katie,F,Cecile Kealey,high school,75,88,85,F,8,4.0,standard,none Tony,M,Dusty Bickel,some high school,84,84,80,M,7,5.0,standard,none Rodney,M,Nichelle Wasko,high school,71,74,64,M,8,0.0,standard,none Glenn,M,Leeanna Gregson,high school,67,80,81,M,6,2.0,free/reduced,completed
+Marvin,M,Perry Daigneault,some high school,80,92,88,M,9,0.0,standard,completed
+April,F,Solange Borror,some college,86,76,74,F,7,1.0,standard,none Derek,M,Jamey Kirwin,associate's degree,76,74,73,M,8,2.0,standard,none Erica,F,Jani Foulds,high school,41,52,51,F,9,1.0,standard,none Ian,M,Ted Hartig,associate's degree,74,88,90,M,6,2.0,free/reduced,completed
+Adrian,M,Grace Fitch,some high school,72,81,79,M,5,1.0,free/reduced,none Theodore,M,Idalia Peluso,high school,74,79,80,M,7,2.0,standard,completed Alexandra,F,Gerri Rotter,high school,70,65,60,F,8,1.0,standard,none Marcus,M,Mervin Woolum,bachelor's degree,65,81,81,M,9,3.0,standard,completed
+Alfred,M,Nobuko Bialek,associate's degree,59,70,65,M,6,4.0,standard,none Jackson,M,Kizzy Mancil,high school,64,62,68,M,7,1.0,free/reduced,none Edwin,M,Nelda Lucian,high school,50,53,55,M,8,0.0,standard,none Melvin,M,Odessa Marshburn,some college,69,79,81,M,9,2.0,standard,completed
+Sylvia,F,Armida Johanson,some high school,51,56,53,F,6,1.0,free/reduced,completed
+Sheila,F,Yang Lubinski,high school,68,80,76,F,7,5.0,standard,completed Alicia,F,Luciana Breneman,some college,85,86,98,F,7,1.0,standard,completed
+Steve,M,Joaquin Southworth,associate's degree,65,70,74,M,7,2.0,standard,completed
+Leah,F,Madalyn Pettiford,some high school,73,79,79,F,7,4.0,standard,none Hunter,M,Annika Seamon,some college,62,67,67,M,8,3.0,standard,none Jeffery,M,Lynn Clifton,some high school,69,66,61,M,8,4.0,standard,none Kristen,F,Horacio Gilford,associate's degree,43,60,58,F,9,1.0,free/reduced,none
+Caroline,F,Silvana Gosier,associate's degree,90,87,85,F,6,2.0,standard,none
+Mia,F,Casimira Bakker,some college,74,77,73,F,8,3.0,free/reduced,none Sherry,F,Milagros Hixson,some high school,73,66,63,F,7,4.0,standard,none Jesus,M,Cornelia Holly,high school,65,69,67,M,9,3.0,standard,none Dustin,M,Maryanna Klemme,associate's degree,80,63,63,M,6,2.0,standard,none
+Herbert,M,Ines Breeden,some high school,50,60,60,M,5,3.0,free/reduced,completed Pauline,F,Bill Kuhlmann,some college,63,73,71,F,7,4.0,free/reduced,completed Michele,F,Ilda Bethel,bachelor's degree,77,85,87,F,8,5.0,free/reduced,none Veronica,F,Norene Boudreau,bachelor's degree,72,72,74,F,8,3.0,standard,none
+Ricky,M,Sheron Lefever,some college,69,90,88,M,7,4.0,standard,completed Liam,M,Stefany Pietrzak,master's degree,90,95,93,M,6,1.0,standard,none Wesley,M,Cathleen Brawn,associate's
+degree,47,57,44,M,5,2.0,free/reduced,none"
+
+"Thelma,F,Loriann Wedeking,some college,76,78,75,F,8,0.0,standard,none Suzanne,F,Jonathon Red,associate's degree,71,83,78,F,6,1.0,standard,none Lucille,F,Genie Muma,some college,88,95,92,F,7,4.0,standard,completed Morgan,F,Arletha Badalamenti,some college,40,43,39,F,8,5.0,free/reduced,none
+Joanne,F,Elza Buser,high school,64,64,67,F,7,2.0,free/reduced,completed Troy,M,Alaina Lykes,high school,38,60,50,M,6,1.0,free/reduced,none Chloe,F,Pamula Dalzell,associate's degree,58,54,52,F,8,6.0,standard,none Anita,F,Maricela Jhonson,associate's degree,40,52,43,F,7,2.0,standard,none
+Connor,M,Audry Mcgarr,high school,65,81,73,M,8,5.0,standard,none Isaiah,M,Kyla Bingaman,some college,78,72,70,M,6,4.0,standard,completed Julian,M,Shyla Tubman,master's degree,50,53,58,M,7,1.0,standard,none Jared,M,Scottie Felton,some high school,69,75,78,M,8,3.0,standard,none Holly,F,Terrance Joy,high school,88,89,86,F,7,6.0,standard,none Lorraine,F,Yee Trieu,some high school,18,32,28,F,8,4.0,free/reduced,none Jayden,M,Houston Oller,master's degree,46,42,46,M,6,1.0,free/reduced,completed
+Jill,F,Ladawn Ates,associate's degree,54,58,61,F,8,2.0,free/reduced,none Geraldine,F,Marylouise Dorn,high school,66,69,63,F,7,0.0,standard,none Rhonda,F,Rex Merriam,some college,65,75,70,F,6,1.0,free/reduced,completed Dolores,F,Rosetta Heidenreich,some college,44,54,53,F,9,4.0,standard,none Eddie,M,Billye Serafin,some high school,69,73,73,M,7,5.0,standard,none Vivian,F,Brittaney Hermes,bachelor's degree,74,71,80,F,8,0.0,free/reduced,completed
+Darlene,F,Nannie Colligan,master's degree,73,74,72,F,9,2.0,free/reduced,none
+Aiden,M,Emmy Gallaway,some college,69,54,55,M,7,0.0,standard,none Calvin,M,Giselle Lou,bachelor's degree,67,69,75,M,8,1.0,standard,none Shane,M,Pam Melendez,high school,70,70,65,M,9,2.0,standard,none Leo,M,Julius Blazek,master's degree,62,70,75,M,5,1.0,standard,none Juanita,F,Krystina Lucca,some college,69,74,74,F,7,2.0,standard,none Sally,F,Raisa Musgrove,some college,63,65,61,F,8,1.0,standard,none Lucy,F,Carmelo Wain,master's degree,56,72,65,F,9,2.0,free/reduced,none Bertha,F,Kera Gilkison,some college,40,42,38,F,7,1.0,standard,none Gail,F,Xavier Trotta,some college,97,87,82,F,8,3.0,standard,none Oscar,M,Florance Lawhon,associate's degree,81,81,79,M,7,4.0,standard,completed
+Mike,M,Albertha Digennaro,associate's degree,74,81,83,M,5,1.0,standard,none
+Randall,M,Andra Bevel,some high school,50,64,59,M,6,0.0,free/reduced,none Ray,M,Winford Hamlin,associate's degree,75,90,88,M,7,2.0,free/reduced,completed
+Bernard,M,Bonny Horney,associate's degree,57,56,57,M,8,1.0,free/reduced,none Jeremiah,M,Codi Garrels,associate's degree,55,61,54,M,5,5.0,free/reduced,none Brooke,F,Trinidad Graziano,associate's degree,53,58,65,F,9,3.0,standard,none
+Leroy,M,Viva Roda,some college,59,65,66,M,7,6.0,free/reduced,completed Amelia,F,Manual Vales,associate's degree,50,56,54,F,6,0.0,free/reduced,none
+Corey,M,Brendon Puente,associate's degree,65,54,57,M,9,2.0,standard,none June,F,Nathalie Devita,associate's degree,55,65,62,F,7,1.0,standard,completed
+Owen,M,Zelda Ogren,high school,66,71,76,M,8,1.0,standard,none Claire,F,Sadie Hazelton,associate's
+degree,57,74,76,F,9,4.0,free/reduced,completed"
+
+"Jay,M,Vinnie Bains,high school,82,84,82,M,7,5.0,standard,completed Kristin,F,Frederick Rankins,some college,53,55,48,F,8,3.0,standard,none Beatrice,F,Trish Vickers,associate's degree,77,69,68,F,9,4.0,free/reduced,completed
+Clifford,M,Masako Allman,some college,53,44,42,M,5,5.0,standard,none Renee,F,Elna Kowal,some high school,71,84,87,F,8,3.0,free/reduced,completed
+Tara,F,Aaron Castello,high school,33,41,43,F,9,5.0,free/reduced,none Madeline,F,Gerard Barrientos,associate's degree,82,85,86,F,7,4.0,standard,completed
+Barry,M,Wes Imel,associate's degree,52,55,49,M,8,2.0,standard,none Debbie,F,Stella Sears,some college,58,59,58,F,7,3.0,standard,completed Eileen,F,Josette Vavra,some high school,0,17,10,F,5,2.0,free/reduced,none Manuel,M,Guadalupe Linen,bachelor's degree,79,74,72,M,6,5.0,free/reduced,completed
+Ida,F,Jeremiah Damiani,some high school,39,39,34,F,7,4.0,free/reduced,none
+Lynn,F,Roxy Lauber,associate's degree,62,61,55,F,8,2.0,free/reduced,none Blake,M,Federico Biros,associate's degree,69,80,71,M,5,3.0,standard,none Dean,M,Sol Dantonio,some high school,59,58,59,M,6,2.0,standard,none Kim,F,Lucas Anchondo,some high school,67,64,61,F,9,1.0,standard,none Bernice,F,Ok Then,some high school,45,37,37,F,8,4.0,free/reduced,none Ronnie,M,Mei Vaz,some college,60,72,74,M,7,5.0,standard,none Warren,M,Janelle Haddox,associate's degree,61,58,56,M,6,2.0,free/reduced,none
+Gavin,M,Donald Trollinger,associate's degree,39,64,57,M,9,1.0,standard,none Miguel,M,Shakira Moreles,some college,58,63,73,M,8,2.0,free/reduced,completed Cassandra,F,Crista Cuccia,some college,63,55,63,F,7,3.0,standard,completed
+Regina,F,Phung Dinh,associate's degree,41,51,48,F,8,2.0,free/reduced,none Elsie,F,Paul Lockett,some high school,61,57,56,F,7,5.0,free/reduced,none Jo,F,Merlyn Hults,some high school,49,49,41,F,8,4.0,standard,none Tommy,M,Kym Rotter,associate's degree,44,41,38,M,9,1.0,free/reduced,none Trevor,M,Jocelyn Akey,some high school,30,26,22,M,8,3.0,standard,none Stella,F,Yukiko Furtado,bachelor's degree,80,78,81,F,7,6.0,standard,completed
+Gertrude,F,Sonny Wilner,some high school,61,74,72,F,6,4.0,standard,completed
+Loretta,F,Verna Beller,master's degree,62,68,68,F,6,1.0,standard,none Rosa,F,Hai Lippert,associate's degree,47,49,50,F,7,2.0,standard,none Sydney,F,Deeann Burdette,high school,49,45,45,F,8,0.0,free/reduced,none Oliver,M,Londa Gamache,some college,50,47,54,M,6,1.0,free/reduced,completed
+Chelsea,F,Shaina Sentell,associate's degree,72,64,63,F,9,4.0,standard,none
+Roberta,F,Dominick Dolson,high school,42,39,34,F,6,5.0,free/reduced,none Savannah,F,Len Bufford,some college,73,80,82,F,7,0.0,standard,none Lindsey,F,Luvenia Mattis,some college,76,83,88,F,8,2.0,free/reduced,none Brett,M,Alysa Harlow,associate's degree,71,71,74,M,7,0.0,standard,none Colleen,F,Eliz Jennings,some college,58,70,67,F,8,1.0,standard,none Gordon,M,Claris Lamons,some high school,73,86,82,M,8,2.0,standard,none Mitchell,M,Vina Uhlig,bachelor's degree,65,72,74,M,7,1.0,standard,none Charlie,M,Glendora Hemminger,high school,27,34,36,M,6,2.0,free/reduced,none
+Dominic,M,Nelly Hardman,high school,71,79,71,M,7,1.0,standard,none
+Annette,F,Clarinda Pett,some college,79,86,92,F,7,1.0,standard,none"
+
+"Molly,F,Aisha Waller,associate's degree,78,81,82,F,6,3.0,free/reduced,completed Cathy,F,Carina Maybee,some high school,65,66,62,F,6,4.0,standard,completed
+Stacy,F,Joanna Savoy,some college,63,72,70,F,7,1.0,standard,completed Laurie,F,Kayleen Watts,some college,58,67,62,F,9,0.0,free/reduced,none Lydia,F,Tobias Wronski,bachelor's degree,65,67,62,F,7,2.0,standard,none Jon,M,Karrie Gust,some college,79,67,67,M,8,1.0,standard,none Chase,M,Migdalia Schimmel,bachelor's degree,68,74,74,M,9,5.0,standard,completed
+Leon,M,Markita Morphis,associate's degree,85,91,89,M,7,1.0,standard,none Bessie,F,Sid Welk,high school,60,44,47,F,8,3.0,standard,completed Seth,M,Iliana Strauch,some college,98,86,90,M,9,6.0,standard,completed Kaitlyn,F,Tawana Showers,some college,58,67,72,F,5,0.0,standard,none Don,M,Keren Godbout,master's degree,87,100,100,M,7,2.0,standard,none Naomi,F,Laureen Wrinkle,associate's degree,66,63,64,F,8,1.0,standard,completed
+Jeanette,F,Grady Kellogg,associate's degree,52,76,70,F,9,1.0,free/reduced,none
+Hailey,F,Ulrike Gurley,some high school,70,64,72,F,7,4.0,standard,none Jeanne,F,Gracie Rawlings,associate's degree,77,89,98,F,8,5.0,free/reduced,completed
+Darrell,M,Margurite Knebel,high school,62,55,49,M,7,3.0,standard,none Lloyd,M,Claud Lecompte,associate's degree,54,53,47,M,5,5.0,standard,none Carter,M,Cole Vanhouten,some college,51,58,54,M,6,4.0,standard,none Jerome,M,Frances Lloyd,bachelor's degree,99,100,100,M,7,3.0,standard,completed
+Erik,M,Lakendra Schlottmann,high school,84,77,74,M,8,2.0,standard,none Alvin,M,Rocky Pridmore,bachelor's degree,75,85,82,M,5,4.0,free/reduced,none
+Beth,F,Esmeralda Platts,bachelor's degree,78,82,79,F,6,2.0,standard,none Jenna,F,Rod Kropf,some high school,51,63,61,F,9,3.0,standard,none Yvonne,F,Marilynn Speer,some college,55,69,65,F,6,2.0,standard,none Rosemary,F,Ira Melendez,bachelor's degree,79,92,89,F,7,4.0,standard,completed
+Landon,M,Hae Leininger,associate's degree,91,89,92,M,8,2.0,standard,completed
+Bill,M,Melita Hiemstra,some college,88,93,93,M,7,3.0,standard,completed Haley,F,Jacquetta Baillargeon,high school,63,57,56,F,8,2.0,free/reduced,none
+Alma,F,Lucio Shahid,some college,83,80,73,F,7,4.0,standard,none Wyatt,M,Travis Hamlett,high school,87,95,86,M,6,2.0,standard,none Micheal,M,Mariko Lemoine,some high school,72,68,67,M,9,3.0,standard,none Agnes,F,Janina Jennison,some college,65,77,74,F,8,2.0,standard,completed Gina,F,Marina Ocon,master's degree,82,82,74,F,7,3.0,standard,none Minnie,F,Laurette Crumpler,bachelor's degree,51,49,51,F,6,2.0,standard,none
+Sebastian,M,Britteny Frierson,master's degree,89,84,82,M,8,4.0,standard,none Devin,M,Kerri Grizzle,some high school,53,37,40,M,7,2.0,free/reduced,completed Georgia,F,Trudi Deshazo,some college,87,74,70,F,8,3.0,free/reduced,completed
+Stacey,F,Keitha Muncy,some college,75,81,84,F,7,2.0,standard,completed Pearl,F,Gerri Gargano,bachelor's degree,74,79,75,F,6,4.0,free/reduced,completed
+Vicki,F,Lin Veliz,bachelor's degree,58,55,48,F,7,2.0,standard,none"
+
+"Joann,F,Camelia Drennen,some high school,51,54,41,F,9,4.0,standard,completed
+Max,M,Tatyana Reeser,high school,70,55,56,M,7,2.0,standard,none Kelsey,F,Felisa Campo,associate's degree,59,66,67,F,7,3.0,standard,none Lillie,F,Tyler Frandsen,some college,71,61,69,F,8,1.0,standard,completed Levi,M,Mickey Warfield,some high school,76,72,71,M,5,2.0,standard,none Lily,F,Buster Defilippo,some college,59,62,64,F,7,5.0,free/reduced,none Floyd,M,Lorine Mchargue,some college,42,55,54,M,8,2.0,free/reduced,completed
+Carla,F,Alpha Wicker,high school,57,43,47,F,9,3.0,standard,none Edgar,M,Alesha Borey,some college,88,73,78,M,8,5.0,standard,none Lewis,M,Pattie Remo,some college,22,39,33,M,7,4.0,free/reduced,none Jim,M,Yang Granillo,some high school,88,84,75,M,6,1.0,standard,none Nora,F,Lynn Sax,associate's degree,73,68,66,F,5,3.0,free/reduced,none Maureen,F,Rosio Hoard,bachelor's degree,68,75,81,F,7,6.0,standard,completed
+Brent,M,Cherri Jasinski,associate's degree,100,100,93,M,1,4.0,free/reduced,completed Heidi,F,Phoebe Plotner,some high school,62,67,69,F,0,1.0,standard,completed
+Derrick,M,Silas Selvy,bachelor's degree,77,67,68,M,7,2.0,standard,none Mario,M,Georgette Chism,associate's degree,59,70,66,M,7,0.0,standard,completed
+Nellie,F,Lakiesha Hightower,bachelor's degree,54,49,47,F,8,1.0,standard,none
+Lindsay,F,Tona Koss,some high school,62,67,61,F,6,4.0,standard,none Kristina,F,Lorette Rotondo,some college,70,89,88,F,7,5.0,standard,completed
+Shelby,F,Lorinda Bethke,high school,66,74,78,F,7,0.0,free/reduced,completed
+Terri,F,Arlen Clinard,some college,60,60,60,F,8,2.0,free/reduced,none Destiny,F,Lesley Lipton,associate's degree,61,86,87,F,7,0.0,standard,completed
+Vernon,M,Rosanne Mayers,associate's degree,66,62,64,M,8,1.0,free/reduced,none Paige,F,Selina Leffler,associate's degree,82,78,74,F,7,2.0,free/reduced,completed
+Chris,M,Milford Sang,some college,75,88,85,M,6,1.0,free/reduced,completed Marc,M,Geraldine Crimmins,master's degree,49,53,52,M,7,2.0,free/reduced,none
+Violet,F,Veta Crochet,high school,52,53,49,F,8,1.0,standard,none Arlene,F,Dulcie Wehmeyer,bachelor's degree,96,100,100,F,6,1.0,standard,completed
+Sue,F,Hallie Swiger,high school,53,51,51,F,7,3.0,free/reduced,completed Cole,M,Reyna Bourgault,master's degree,58,76,78,M,8,4.0,free/reduced,completed
+Daisy,F,Lynda Payan,high school,68,83,78,F,9,1.0,standard,completed Sabrina,F,Stephaine Coulter,some college,67,75,70,F,6,0.0,free/reduced,completed
+Ricardo,M,Fatima Seaton,high school,72,73,74,M,5,2.0,standard,completed Carmen,F,Deeann Balboa,some high school,94,88,78,F,7,1.0,standard,none Clyde,M,Jacquelyne Knipe,some college,79,86,81,M,8,5.0,standard,none Marian,F,Migdalia Killingsworth,associate's degree,63,67,70,F,9,1.0,standard,none
+Vera,F,Silas Elfrink,bachelor's degree,43,51,54,F,9,3.0,free/reduced,completed Constance,F,Su Mcmillin,master's
+degree,81,91,87,F,7,6.0,standard,completed"
+
+"Deanna,F,Charlesetta Sillman,high school,46,54,58,F,8,0.0,free/reduced,completed Wilma,F,Sandee Hanna,associate's degree,71,77,77,F,9,2.0,standard,completed Colin,M,Manual Steil,master's degree,52,70,62,M,7,1.0,free/reduced,completed Melinda,F,Delmer Zielinski,some high school,97,100,100,F,8,1.0,standard,completed
+Tom,M,Alla Cann,master's degree,62,68,75,M,9,4.0,free/reduced,completed Lena,F,Nena Sarabia,some college,46,64,66,F,5,5.0,free/reduced,none Tamara,F,Sebastian Harn,high school,50,50,47,F,7,4.0,standard,none Joy,F,Consuela Aikins,associate's degree,65,69,70,F,8,5.0,standard,none Faith,F,Alissa Chambers,some high school,45,52,49,F,9,2.0,free/reduced,completed
+Clayton,M,Hilary Seabrooks,associate's degree,65,67,65,M,7,1.0,free/reduced,completed
+Maurice,M,Eufemia Rossetti,high school,80,76,65,M,8,4.0,standard,none Gabrielle,F,John Belmont,some high school,62,66,68,F,7,5.0,standard,completed
+Cory,M,Mona Mazzoni,some high school,48,52,45,M,6,3.0,free/reduced,none Franklin,M,Sonya Molnar,bachelor's degree,77,88,87,M,8,2.0,standard,none Ivan,M,Ozell Weir,associate's degree,66,65,69,M,7,5.0,standard,none Xavier,M,Sanford Dungy,some college,76,83,79,M,8,4.0,standard,completed Charlene,F,Vito Mackin,some high school,62,64,66,F,7,2.0,standard,none Katelyn,F,Evelina Tallon,some college,77,62,62,F,6,3.0,standard,completed Francisco,M,Paulene Gobeil,master's degree,69,84,85,M,7,5.0,standard,completed
+Sofia,F,Angla Hartzler,associate's degree,61,55,52,F,9,4.0,standard,none Garrett,M,Bulah Wark,some high school,59,69,65,M,7,2.0,free/reduced,completed
+Myrtle,F,Lorean Ogan,high school,55,56,51,F,7,3.0,free/reduced,none Cora,F,Dorothy Steger,some college,45,53,55,F,8,6.0,free/reduced,none Alejandro,M,Rasheeda Buell,associate's degree,67,84,86,M,7,3.0,standard,completed
+Herman,M,Aracely Engler,some college,65,81,77,M,8,5.0,free/reduced,none Mabel,F,Becky Copland,associate's degree,69,77,69,F,9,4.0,standard,none Jorge,M,Annamaria Donadio,associate's degree,57,69,68,M,8,2.0,standard,none
+Marcia,F,Burt Maciel,some college,59,41,42,F,7,3.0,standard,none Grant,M,Bethany Mcmanis,some high school,74,71,78,M,6,5.0,standard,completed
+Marlene,F,Adrianna Goodwill,bachelor's degree,82,62,62,F,5,4.0,standard,none
+Erika,F,Delsie Rockhill,high school,81,80,76,F,7,5.0,standard,completed Zoe,F,Emanuel Motz,some college,74,81,76,F,1,4.0,free/reduced,none Mackenzie,F,Duane Mojarro,some college,58,61,66,F,0,3.0,free/reduced,none Glen,M,Estefana Chi,some high school,80,79,79,M,7,2.0,free/reduced,completed
+Viola,F,Temple Delgiudice,some college,35,28,27,F,7,4.0,free/reduced,none Gilbert,M,Millie Skipworth,high school,42,62,60,M,8,5.0,free/reduced,none Jake,M,Melania Stillings,associate's degree,60,51,56,M,6,2.0,free/reduced,completed
+Mattie,F,Caroyln Miser,high school,87,91,81,F,7,3.0,standard,completed Nina,F,Sigrid Casares,some high school,84,83,75,F,7,2.0,standard,completed
+Claudia,F,Rowena Nurse,associate's degree,83,86,88,F,8,3.0,free/reduced,completed
+Lester,M,Chu Maughan,high school,34,42,39,M,7,2.0,free/reduced,none"
+
+"Kaylee,F,Drucilla Devenport,high school,66,77,70,F,8,4.0,free/reduced,none
+Elmer,M,Hellen Kimberling,high school,56,68,74,M,6,2.0,standard,completed Tanya,F,Libbie Klopp,associate's degree,87,85,73,F,7,4.0,standard,none Andre,M,Cecille Normand,some high school,55,65,62,M,8,1.0,free/reduced,none
+Alexa,F,Melita Gurr,some high school,86,80,75,F,9,3.0,standard,none Jennie,F,Katelin Kalina,associate's degree,52,66,73,F,6,6.0,standard,completed
+Autumn,F,Rosa Leonard,master's degree,45,56,54,F,7,4.0,free/reduced,none Sadie,F,Sheena Hadden,some college,72,72,71,F,8,1.0,standard,none Gene,M,Karena Neace,high school,57,50,54,M,9,2.0,standard,none Sam,M,Carmon Ashford,some high school,68,72,64,M,6,0.0,free/reduced,none Marissa,F,Ardella Camacho,some college,88,95,94,F,5,1.0,standard,completed
+Colton,M,Hoyt Shadduck,some college,76,64,66,M,7,4.0,standard,none Spencer,M,Todd Holgate,associate's degree,46,43,42,M,8,5.0,standard,none Eli,M,Qiana Levan,bachelor's degree,67,86,83,M,9,0.0,standard,none Alison,F,Risa Magwood,some high school,92,87,78,F,9,2.0,standard,none Caitlin,F,Hortense Chattin,bachelor's degree,83,82,84,F,7,0.0,standard,completed
+Harvey,M,Lee Esses,associate's degree,80,75,77,M,8,1.0,standard,none Tonya,F,Mohamed Bolles,bachelor's degree,63,66,67,F,9,2.0,free/reduced,none
+Priscilla,F,Merrill Ballenger,some high school,64,60,74,F,7,1.0,standard,completed
+Addison,F,Deeann Ashburn,some college,54,52,51,F,8,2.0,standard,none Isabel,F,Perry Viera,associate's degree,84,80,80,F,9,1.0,standard,none Angelina,F,Joyce Sciacca,high school,73,68,66,F,5,2.0,free/reduced,completed
+Brayden,M,Clayton Shealy,bachelor's degree,80,83,83,M,7,1.0,standard,none Sophie,F,Nada Sheilds,high school,56,52,55,F,8,3.0,standard,none Chester,M,Deanna Rome,some college,59,51,43,M,9,4.0,standard,none Jeff,M,Greta Sartain,some high school,75,74,69,M,7,1.0,standard,none Gwendolyn,F,Whitley Leppert,associate's degree,85,76,71,F,8,0.0,standard,none
+Bryce,M,Franchesca Centers,high school,58,70,68,M,6,1.0,standard,completed
+Patsy,F,Myrtice Lonzo,high school,65,64,62,F,9,5.0,standard,none Tristan,M,Santina Cybulski,high school,68,60,53,M,7,1.0,standard,none Gabriella,F,Kayleigh Cartier,some high school,47,49,49,F,6,3.0,standard,completed
+Maggie,F,Edythe Knutsen,master's degree,80,80,72,F,8,2.0,standard,none Miranda,F,Adell Westmoreland,high school,54,52,52,F,9,1.0,standard,none Darren,M,Delores Gullick,some college,62,73,70,M,7,1.0,standard,none Delores,F,Cuc Kossman,associate's degree,64,73,68,F,8,4.0,free/reduced,none
+Milton,M,Lakendra Bobby,associate's degree,78,77,77,M,9,5.0,standard,completed
+Duane,M,Oneida Haberman,some college,70,75,78,M,5,3.0,standard,none Preston,M,Ghislaine Southwick,master's degree,65,81,81,M,7,4.0,free/reduced,completed
+Kylie,F,Ardis Overbey,some high school,64,79,77,F,8,5.0,free/reduced,completed
+Reginald,M,Fermin Work,some college,79,79,78,M,9,3.0,standard,completed Genevieve,F,Saundra Voshell,some high school,44,50,51,F,7,2.0,free/reduced,none
+Ruben,M,Bret Styers,high school,99,93,90,M,8,4.0,standard,none"
+
+"Aidan,M,Kortney Shear,high school,76,73,68,M,7,5.0,standard,none Brandy,F,Luanna Gabler,some high school,59,42,41,F,5,2.0,free/reduced,none
+Yolanda,F,Danette Lares,bachelor's degree,63,75,81,F,6,4.0,standard,none Maxine,F,Melisa Munday,high school,69,72,77,F,7,5.0,standard,none Aubrey,F,Myriam Roberie,associate's degree,88,92,95,F,8,6.0,standard,completed
+Roberto,M,Renata Fettig,bachelor's degree,69,63,61,M,6,2.0,standard,none Carole,F,Les Lindsey,some college,58,49,42,F,9,3.0,standard,none Jimmie,M,Harris Descoteaux,associate's degree,47,53,58,M,8,4.0,free/reduced,none
+Joanna,F,Jazmine Emery,some college,65,70,71,F,7,2.0,standard,none Neil,M,Sherrie Pendelton,some college,88,85,76,M,6,1.0,standard,completed Miriam,F,Zaida Romney,bachelor's degree,83,78,73,F,9,2.0,standard,none Natasha,F,Florencio Coleman,some high school,85,92,93,F,8,3.0,standard,completed
+Carson,M,Velva Bing,high school,59,63,75,M,7,4.0,standard,completed Katrina,F,Ying Scheetz,some high school,65,86,80,F,8,5.0,free/reduced,none
+Leona,F,Keli Shen,bachelor's degree,73,56,57,F,7,3.0,free/reduced,none Glenda,F,Mitch Grajeda,high school,53,52,42,F,8,3.0,standard,none Lance,M,Bryon Furness,high school,45,48,46,M,9,3.0,standard,none Mae,F,Tamie Bertucci,bachelor's degree,73,79,84,F,8,4.0,free/reduced,none Mariah,F,Shaniqua Pulido,some college,70,78,78,F,7,5.0,free/reduced,completed
+Vickie,F,Adina Farris,some high school,37,46,46,F,6,6.0,standard,none Brandi,F,Landon Constantino,associate's degree,81,82,82,F,6,2.0,standard,completed
+Whitney,F,Russell Batres,associate's degree,97,82,88,F,7,3.0,standard,completed
+Jocelyn,F,Leesa Rieke,some high school,67,89,82,F,8,5.0,standard,none Josiah,M,Hank Noblitt,bachelor's degree,88,75,76,M,6,4.0,free/reduced,none
+Everett,M,Priscilla Lamphere,some high school,77,76,77,M,9,1.0,standard,completed
+Diego,M,Karon Wilmes,some high school,86,73,70,M,7,6.0,standard,none Parker,M,Prudence Cutler,some high school,63,60,57,M,8,4.0,standard,completed
+Cecil,M,Myrl Kandoll,bachelor's degree,65,73,75,M,7,1.0,standard,none Kara,F,Lissa Andrews,high school,78,77,80,F,8,2.0,free/reduced,completed Dan,M,Mikel Ranger,associate's degree,67,62,60,M,8,0.0,free/reduced,none Meghan,F,Yuri Tiller,some high school,46,41,43,F,7,1.0,standard,completed Dora,F,Jonas Reilley,associate's degree,71,74,68,F,6,4.0,standard,completed
+Brooklyn,F,Santina Sherlock,high school,40,46,50,F,7,5.0,free/reduced,completed Margie,F,Corrine Snelling,associate's degree,90,87,75,F,8,0.0,free/reduced,none Allan,M,Kara Wierenga,some college,81,78,81,M,7,2.0,free/reduced,completed Bethany,F,Noriko Arroyo,some high school,56,54,52,F,6,0.0,free/reduced,none Eduardo,M,Caron Brasch,associate's degree,67,84,81,M,6,1.0,standard,completed
+Ana,F,Geoffrey Follmer,associate's degree,80,76,64,F,7,2.0,standard,none Hector,M,Clark Vasser,associate's degree,74,75,83,M,9,1.0,standard,completed
+Arnold,M,Wanetta Bold,some college,69,67,69,M,7,2.0,standard,none"
+
+"Marsha,F,Maricela Damron,some college,99,87,81,F,8,1.0,standard,completed Karl,M,Lynsey Stinchcomb,some high school,51,52,44,M,9,2.0,standard,none Nolan,M,Lovetta Kline,associate's degree,53,71,67,M,7,1.0,free/reduced,none
+Makayla,F,Gracia Moone,high school,49,57,52,F,8,3.0,free/reduced,none Hayden,M,Loma Shears,associate's degree,73,76,80,M,9,4.0,standard,none Toni,F,Adelle Philbrick,bachelor's degree,66,60,57,F,5,1.0,standard,none Christy,F,Sun Johnsrud,associate's degree,68,67,69,F,8,2.0,free/reduced,completed
+Clinton,M,Jenell Marro,bachelor's degree,59,64,75,M,9,1.0,standard,completed
+Billie,F,Mendy Strayer,high school,71,66,65,F,7,5.0,standard,none Johnnie,M,Harriette Ing,master's degree,77,82,91,M,8,1.0,standard,completed
+Dianne,F,Veola Domenech,associate's degree,83,72,78,F,7,3.0,standard,none Ariana,F,Denisha Chabot,bachelor's degree,63,71,69,F,5,6.0,standard,none Kendra,F,Corrina Carollo,associate's degree,56,65,63,F,6,0.0,free/reduced,none
+Alexandria,F,Cassandra Fike,high school,67,79,84,F,7,2.0,free/reduced,completed
+Sierra,F,Johnson Pinedo,high school,75,86,79,F,8,1.0,standard,none Bailey,F,Emery Gessner,some college,71,81,80,F,5,1.0,standard,none Javier,M,Gaynelle Slaton,some high school,43,53,53,M,6,4.0,free/reduced,none
+Penny,F,Alysia Hipps,high school,41,46,43,F,9,5.0,free/reduced,none Maya,F,Deeann Keeler,some college,82,90,94,F,6,4.0,standard,none Melody,F,Lilliam Harvard,some college,61,61,62,F,7,2.0,standard,none Roland,M,Lorinda Froman,associate's degree,82,75,77,M,7,5.0,standard,completed
+Omar,M,Bonita Briganti,some high school,41,55,51,M,8,3.0,standard,none Hattie,F,Kendall Simons,high school,71,60,61,F,7,2.0,standard,none Johnathan,M,Lakenya Seabrooks,associate's degree,47,37,35,M,6,4.0,standard,none
+Kay,F,Jammie Gourlay,associate's degree,62,56,53,F,9,5.0,standard,completed Cecilia,F,Arlean Juergens,associate's degree,90,78,81,F,8,3.0,standard,none
+Fernando,M,Boyce Wehmeyer,some college,73,74,61,M,6,2.0,standard,none Darryl,M,Louis Bullard,high school,66,76,68,M,8,4.0,free/reduced,none Brendan,M,Vita Noonkester,associate's degree,52,57,50,M,9,5.0,free/reduced,none
+Felicia,F,Lakeesha Lesniak,some college,69,78,76,F,6,7.0,standard,none Maxwell,M,Charlette Larry,associate's degree,65,84,84,M,5,1.0,standard,completed
+Jenny,F,Heidi Abadie,high school,69,77,78,F,8,2.0,standard,completed Micah,M,Shandi Medders,some college,50,64,66,M,6,3.0,standard,completed Isabelle,F,Jenny Severino,some college,73,78,76,F,7,2.0,standard,completed
+Ada,F,Patience Marley,some high school,70,82,76,F,8,1.0,standard,completed Briana,F,Lily Wolter,associate's degree,81,75,78,F,7,4.0,free/reduced,none
+Tanner,M,Robbyn Diem,some college,63,61,60,M,6,5.0,free/reduced,none Marguerite,F,Odette Laclair,high school,67,72,74,F,8,2.0,standard,none Lonnie,M,Anne Dresel,high school,62,55,54,M,8,1.0,standard,none Angelica,F,Josefina Smiley,some high school,29,40,44,F,6,2.0,free/reduced,completed
+Marshall,M,Lisette Mehr,some college,62,66,68,M,7,4.0,standard,completed"
+
+"Bridget,F,Sherryl Siers,master's degree,94,99,100,F,8,5.0,standard,completed
+Tracey,F,Velia Brayman,some college,85,75,68,F,7,2.0,standard,completed Bob,M,Lyn Pan,associate's degree,77,78,73,M,8,1.0,free/reduced,none Abraham,M,Caitlin Bessey,high school,53,58,44,M,6,4.0,free/reduced,none Arianna,F,Cristine Roder,some college,93,90,83,F,8,3.0,free/reduced,none Madelyn,F,Claire Sward,associate's degree,49,53,53,F,7,6.0,standard,none Adriana,F,Adelle Kovach,associate's degree,73,76,78,F,6,,free/reduced,none
+Andy,M,Melissa Kear,bachelor's degree,66,74,81,M,9,4.0,free/reduced,completed
+Brady,M,Rosetta Flagg,associate's degree,77,77,73,M,7,5.0,standard,none Guy,M,Kina Koffler,some high school,49,63,56,M,8,6.0,standard,none Nicolas,M,Lang Silver,some college,79,89,86,M,9,,free/reduced,none Candace,F,Viki Cartledge,bachelor's degree,59,72,70,F,8,2.0,standard,none Hope,F,Brett Aasen,associate's degree,57,78,79,F,9,5.0,standard,completed Karla,F,Glynda Maine,high school,66,66,59,F,5,4.0,free/reduced,none Claude,M,Joane Hasler,bachelor's degree,79,81,82,M,7,2.0,standard,completed
+Pedro,M,Sook Varnell,some high school,57,67,72,M,8,3.0,standard,none Jillian,F,Priscila Leanos,bachelor's degree,87,84,87,F,9,6.0,standard,completed
+Brittney,F,Evan Deslauriers,some college,63,64,67,F,7,4.0,standard,none Rachael,F,Luz Huddleston,some high school,59,63,64,F,8,1.0,free/reduced,completed
+Damian,M,Joann Montag,bachelor's degree,62,72,65,M,7,2.0,free/reduced,none
+Lola,F,Jeannine Pfeil,high school,46,34,36,F,5,3.0,standard,none Ross,M,Raina Batdorf,some college,66,59,52,M,6,6.0,standard,none Kate,F,Madge Lossing,high school,89,87,79,F,7,5.0,standard,none Layla,F,Vannessa Lopez,associate's degree,42,61,58,F,8,4.0,free/reduced,completed
+Jade,F,Irvin Bumbrey,some college,93,84,90,F,5,1.0,standard,completed Harriet,F,Candida Salinas,some high school,80,85,85,F,6,2.0,standard,completed
+Bobbie,F,Natalya Bremer,some college,98,100,99,F,9,0.0,standard,none Misty,F,Shalon Brook,master's degree,81,81,84,F,7,1.0,standard,none Cooper,M,Kathaleen Clepper,some high school,60,70,74,M,6,2.0,standard,completed
+Kurt,M,Fausto Dionne,associate's degree,76,94,87,M,9,5.0,free/reduced,completed Kristine,F,Hildegarde Kitch,associate's degree,73,78,72,F,7,4.0,standard,completed Aaliyah,F,Jarrett Celestin,associate's degree,96,96,99,F,8,1.0,standard,completed
+Geneva,F,Deneen Wind,high school,76,76,74,F,9,3.0,standard,none Desiree,F,Bradly Ratchford,associate's degree,91,73,80,F,7,6.0,free/reduced,completed
+Dakota,M,Gayle Modica,some college,62,72,70,M,8,4.0,free/reduced,none Shelly,F,Miles Wyrick,some high school,55,59,59,F,9,1.0,free/reduced,completed
+Becky,F,Hilton Cousin,some high school,74,90,88,F,5,2.0,free/reduced,completed
+Jacquelyn,F,Porsha Adcock,high school,50,48,42,F,7,0.0,standard,none Blanche,F,Hannelore Yetter,some college,81,74,71,F,9,4.0,standard,completed
+Velma,F,Norine Cane,associate's
+degree,65,75,77,F,7,5.0,standard,completed"
+
+"Krystal,F,Faustina Szabo,some high school,68,51,57,F,8,0.0,standard,completed
+Raul,M,Jeraldine Luque,high school,73,92,84,M,7,2.0,free/reduced,none Brad,M,Elza Prager,some college,53,39,37,M,5,0.0,standard,none Ben,M,Jodee Grimm,associate's degree,68,77,80,M,6,1.0,free/reduced,completed
+Sherri,F,Alba Mcpherson,some high school,55,46,43,F,7,2.0,free/reduced,none Andres,M,Tinisha Addington,some college,87,89,94,M,8,1.0,standard,completed
+Susie,F,Myrtice Andino,some high school,55,47,44,F,5,2.0,standard,none Fannie,F,Kathern Gebo,some college,53,58,57,F,6,1.0,free/reduced,none Sidney,M,Almeta Razo,master's degree,67,57,59,M,9,2.0,standard,none Zoey,F,Jared Threlkeld,associate's degree,92,79,84,F,8,1.0,standard,none Miles,M,Lashawna Hough,some college,53,66,73,M,7,3.0,free/reduced,completed
+Breanna,F,Kristi Tow,associate's degree,81,71,73,F,6,4.0,standard,none Monique,F,Luther Lefevers,high school,61,60,55,F,9,1.0,free/reduced,none Hugh,M,Wilmer Larkin,bachelor's degree,80,73,72,M,8,0.0,standard,none Lula,F,Cammy Scalf,associate's degree,37,57,56,F,7,2.0,free/reduced,none Iris,F,Deedee Prokop,high school,81,84,82,F,8,1.0,standard,none Mathew,M,Leandra Allinder,associate's degree,59,73,72,M,7,5.0,standard,completed
+Byron,M,Terrilyn Maly,some college,55,55,47,M,8,1.0,free/reduced,none Jodi,F,Riley Wimbish,associate's degree,72,79,74,F,9,3.0,standard,none Tim,M,Filiberto Alverson,some college,69,64,68,M,7,0.0,standard,none Elias,M,Elyse Kendig,bachelor's degree,50,60,59,M,6,2.0,free/reduced,none Rick,M,Alysha Ohern,some college,87,84,86,M,6,1.0,standard,completed Wallace,M,Armando Fortney,some high school,71,69,68,M,7,1.0,standard,completed
+Harper,F,Lavona Shoup,some college,68,72,65,F,8,4.0,standard,none Summer,F,Quentin Wroten,master's degree,79,77,75,F,6,5.0,free/reduced,completed
+Grayson,M,Coral Bow,some high school,77,90,85,M,9,2.0,standard,completed Dalton,M,Lorrie Bradley,associate's degree,58,55,53,M,6,0.0,free/reduced,none
+Lynda,F,Eliana Zych,associate's degree,84,95,92,F,7,1.0,standard,none Harrison,M,Brigida Edgar,some college,55,58,52,M,8,2.0,standard,none Krista,F,Kourtney Fannin,bachelor's degree,70,68,72,F,7,3.0,free/reduced,completed
+Hilda,F,Peg Mcelyea,some college,52,59,65,F,8,6.0,free/reduced,completed Tyrone,M,Elizabet Bodine,some college,69,77,77,M,8,1.0,standard,completed Jaxon,M,Fannie Bostic,high school,53,72,64,M,7,2.0,free/reduced,none Rafael,M,Carolann Dupler,some high school,48,58,54,M,6,0.0,standard,none Gabriela,F,Devora Mcguire,some high school,78,81,86,F,7,1.0,standard,completed
+Nevaeh,F,Myrtie Splawn,high school,62,62,63,F,8,2.0,standard,none Sheryl,F,Riva Cha,some college,60,63,59,F,7,3.0,standard,none Drew,M,Albert Redd,high school,74,72,72,M,6,5.0,standard,none Kristi,F,Harley Mcmeen,high school,58,75,77,F,6,4.0,standard,completed Rosie,F,Malika Alanis,high school,76,62,60,F,7,1.0,standard,completed Elena,F,Arcelia Eubanks,some high school,68,71,75,F,9,2.0,standard,none Angelo,M,Mandie Benito,some college,58,60,57,M,7,0.0,free/reduced,none Eunice,F,Terry Cleary,high school,52,48,49,F,8,1.0,standard,none Shelley,F,Nicolas China,bachelor's degree,75,73,74,F,9,0.0,standard,none Nelson,M,Claud Linley,some high
+school,52,67,72,M,7,2.0,free/reduced,completed"
+
+"Antoinette,F,Rae Luciani,bachelor's degree,62,78,79,F,8,1.0,free/reduced,none
+Dwayne,M,Ines Scalf,some college,66,65,60,M,9,2.0,standard,none Dwight,M,Tera Durante,some high school,49,58,55,M,5,1.0,free/reduced,none Kelli,F,Markus Kump,high school,66,72,70,F,7,3.0,standard,none Julius,M,Clare Hakes,some college,35,44,43,M,8,1.0,free/reduced,none Trinity,F,Celestine Metheny,associate's degree,94,85,82,F,7,1.0,standard,completed
+Shaun,M,Jerrell Goold,associate's degree,46,56,57,M,8,3.0,free/reduced,none
+Meredith,F,Eneida Koeppel,master's degree,77,90,84,F,7,1.0,standard,none Kaleb,M,Ailene Eddleman,high school,76,85,82,M,5,2.0,free/reduced,completed
+Sergio,M,Cora Leeds,associate's degree,52,59,62,M,6,4.0,standard,completed Collin,M,Mirian Orman,bachelor's degree,91,81,79,M,7,5.0,standard,completed Rebekah,F,Rachel Rink,some high school,32,51,44,F,8,2.0,standard,completed Greg,M,Natalya Falgoust,some high school,72,79,77,M,5,1.0,free/reduced,none
+Emmanuel,M,Garnett Calderone,some college,19,38,32,M,6,4.0,standard,none Mamie,F,Dorethea Dudding,associate's degree,68,65,61,F,9,1.0,free/reduced,none
+Willard,M,Jaimie Siemers,master's degree,52,65,61,M,6,2.0,free/reduced,none
+Ramon,M,Milton Sabol,high school,48,62,60,M,7,5.0,standard,none Perry,M,Betsey Gallman,some college,60,66,70,M,8,2.0,free/reduced,none Bianca,F,Molly Mckinzie,high school,66,74,69,F,7,1.0,free/reduced,none Kristy,F,Carrol Harrelson,some high school,89,84,77,F,8,4.0,standard,completed
+Candice,F,Dylan Mcbay,high school,42,52,51,F,7,5.0,standard,none Jaden,M,Veta Fultz,associate's degree,57,68,73,M,6,2.0,free/reduced,completed
+Belinda,F,Mariette Whitten,high school,70,70,70,F,9,0.0,standard,none Gracie,F,Xenia Parrales,associate's degree,70,84,81,F,8,1.0,free/reduced,none
+Devon,M,Erwin Ohlinger,some college,69,60,54,M,7,2.0,standard,none Ted,M,Zetta Haan,associate's degree,52,55,57,M,6,4.0,standard,none Terrence,M,Rusty Twiggs,some high school,67,73,68,M,8,5.0,standard,completed
+Janie,F,Zachary Pitre,some high school,76,80,73,F,7,2.0,standard,completed Stuart,M,Stacy Andrzejewski,associate's degree,87,94,95,M,8,1.0,standard,none
+Armando,M,Julie Heineman,some college,82,85,87,M,7,4.0,standard,none Rosalie,F,Yuriko Temme,some college,73,76,78,F,6,3.0,standard,none Marco,M,Deidra Hufford,some college,75,81,74,M,7,6.0,free/reduced,none Cesar,M,Anisa Gordillo,some college,64,74,75,M,9,,free/reduced,none Ayden,M,Luna Gleaton,high school,41,45,40,M,7,4.0,free/reduced,none Ashton,M,Laci Pasko,high school,90,75,69,M,7,5.0,standard,none Irma,F,Julene Kohr,bachelor's degree,59,54,51,F,8,6.0,standard,none Peyton,F,Felicita Bemis,some high school,51,31,36,F,5,,standard,none Wade,M,Hollis Okeefe,high school,45,47,49,M,7,1.0,free/reduced,none Terrance,M,Margherita Ceron,master's degree,54,64,67,M,8,2.0,standard,completed
+Erick,M,Doyle Kegler,some high school,87,84,76,M,9,5.0,standard,completed
+Freddie,M,Kris Zuniga,high school,72,80,83,M,8,4.0,standard,none"
+
+"Beulah,F,Ladawn Reitz,some high school,94,86,87,F,7,2.0,standard,completed
+Felix,M,Isaiah Frink,bachelor's degree,45,59,64,M,6,3.0,standard,none Kennedy,F,Demetrius Meadow,bachelor's degree,61,70,76,F,5,6.0,free/reduced,completed
+Ariel,F,Otelia Montoya,some high school,77,91,88,F,1,1.0,standard,none Brody,M,Florene Chartrand,some high school,85,90,92,M,0,2.0,standard,completed
+Virgil,M,Olene Fink,bachelor's degree,78,90,93,M,7,3.0,free/reduced,none Adrienne,F,Gerardo Mazurek,some college,49,52,51,F,7,6.0,free/reduced,completed
+Roman,M,Victor Brunswick,high school,71,87,82,M,8,5.0,free/reduced,none Morris,M,Sheilah Izaguirre,some high school,48,58,52,M,6,4.0,free/reduced,none
+Robyn,F,Jenae Newbold,high school,62,67,58,F,7,1.0,standard,none Clifton,M,Jospeh Foushee,associate's degree,56,68,70,M,7,2.0,free/reduced,completed
+Kent,M,Peggie Pankey,some high school,65,69,76,M,8,0.0,standard,none Jonathon,M,Coralee Basel,some high school,69,86,81,M,7,1.0,free/reduced,completed
+Kirk,M,Elidia Stutts,some college,61,60,57,M,7,5.0,free/reduced,none Sandy,F,Ria Atkins,bachelor's degree,74,86,89,F,6,4.0,free/reduced,completed
+Jeannette,F,Claudio Dibella,bachelor's degree,64,60,58,F,7,1.0,standard,none Alberta,F,Vernell Millican,high school,77,82,89,F,8,3.0,standard,completed
+Elise,F,Renato Carraway,some college,58,50,45,F,9,6.0,standard,none Verna,F,Tajuana Rubalcaba,high school,60,64,74,F,6,4.0,standard,completed Giovanni,M,Shaquana Thiele,high school,73,64,57,M,7,1.0,standard,none Camila,F,Zane Applebee,high school,75,82,79,F,8,2.0,standard,completed Simon,M,Terese Chace,associate's degree,58,57,53,M,9,0.0,free/reduced,completed
+Carly,F,Ruben Albee,associate's degree,66,77,73,F,6,1.0,standard,none Faye,F,Claretta Helmers,high school,39,52,46,F,5,4.0,free/reduced,none Sonia,F,Dorris Chastain,some high school,64,58,51,F,7,5.0,standard,none Camille,F,Emerson Harriston,high school,23,44,36,F,8,0.0,free/reduced,completed
+Opal,F,Pricilla Shedd,some college,74,77,76,F,9,2.0,free/reduced,completed Nichole,F,Carie Murry,some high school,40,65,64,F,9,0.0,free/reduced,completed
+Ramona,F,Mitchel Obey,master's degree,90,85,84,F,7,1.0,standard,none Cheyenne,F,Carlee Colella,master's degree,91,85,85,F,8,2.0,standard,completed
+Scarlett,F,Billye Kirsch,high school,64,54,50,F,9,1.0,standard,none Flora,F,Yaeko Liz,high school,59,72,68,F,7,2.0,standard,none Sonya,F,Helene Boatman,associate's degree,80,75,69,F,8,1.0,standard,none Jace,M,Rachele Buzzard,master's degree,71,67,67,M,9,2.0,standard,none Della,F,Delinda Matta,high school,61,68,63,F,5,1.0,standard,none Leonardo,M,Hyun Melody,some college,87,85,93,M,7,3.0,standard,none Penelope,F,Rey Letsinger,some high school,82,67,61,F,8,4.0,standard,none Lorenzo,M,Gabriella Coyle,some high school,62,64,55,M,9,1.0,standard,none Genesis,F,Demetria Mund,bachelor's degree,97,97,96,F,7,0.0,standard,none Jonah,M,Angeles Matteo,some college,75,68,65,M,8,2.0,free/reduced,none Daryl,M,Venice Underhill,bachelor's degree,65,79,81,M,7,1.0,standard,none
+Lila,F,Naoma Ames,high school,52,49,46,F,5,5.0,standard,completed"
+
+"Kristopher,M,Mora Katzman,associate's degree,87,73,72,M,6,1.0,free/reduced,none
+Natalia,F,Grisel Berger,associate's degree,53,62,53,F,7,3.0,standard,none Malcolm,M,Catheryn Buser,master's degree,81,86,87,M,8,6.0,free/reduced,none
+Gianna,F,Stephania Fail,bachelor's degree,39,42,38,F,5,0.0,free/reduced,completed
+Inez,F,Marsha Canton,some college,71,71,80,F,6,2.0,standard,completed Skylar,F,Euna Risk,associate's degree,97,93,91,F,9,1.0,standard,none Valeria,F,Leopoldo Osby,some college,82,82,88,F,10,1.0,standard,completed Marianne,F,Stormy Browder,high school,59,53,52,F,7,4.0,free/reduced,none Damon,M,Karrie Morrisey,associate's degree,61,42,41,M,8,5.0,standard,none Lincoln,M,Tammera Uzzle,associate's degree,78,74,72,M,8,2.0,free/reduced,completed
+Luther,M,Mavis Macrae,associate's degree,49,51,51,M,7,0.0,free/reduced,none
+Ellie,F,Ellyn Labrie,high school,59,58,47,F,8,1.0,standard,none Guadalupe,F,Heike Roehrig,some college,70,72,76,F,9,2.0,standard,completed
+Fredrick,M,Milissa Tiffany,associate's degree,82,84,78,M,7,3.0,standard,completed
+Jada,F,Mona Clow,associate's degree,90,90,82,F,8,6.0,free/reduced,none Yvette,F,Aurelio Angles,bachelor's degree,43,62,61,F,6,1.0,free/reduced,none
+Dillon,M,Dominque Bogner,some college,80,64,66,M,8,2.0,free/reduced,none Dallas,M,Lorriane Lovitt,some college,81,82,84,M,7,0.0,standard,none Marcella,F,Joy Girard,some high school,59,72,80,F,6,2.0,standard,none Geoffrey,M,Tamisha Steinert,associate's degree,64,76,74,M,6,3.0,standard,none
+Dave,M,Katrina Boyce,bachelor's degree,63,64,66,M,6,5.0,standard,completed Hudson,M,Concetta Everts,bachelor's degree,71,70,70,M,7,4.0,standard,completed
+Dominick,M,Lashaun Havlik,high school,64,73,71,M,8,1.0,free/reduced,none Bryson,M,Loida Lessman,bachelor's degree,55,46,44,M,7,2.0,free/reduced,none
+Angie,F,Conception Pritt,associate's degree,51,51,54,F,8,0.0,standard,none Lynne,F,Glenna Hoffman,associate's degree,62,76,80,F,7,1.0,standard,completed
+Kari,F,Lacy Lampman,high school,54,72,59,F,7,2.0,free/reduced,none Bella,F,Rheba Lueras,some college,69,65,74,F,7,1.0,free/reduced,none Cristian,M,Brenda Thakkar,high school,44,51,48,M,7,2.0,free/reduced,none Maryann,F,Wilda Spagnolo,some college,86,85,91,F,7,1.0,standard,completed Gayle,F,Eileen Lightford,associate's degree,85,92,85,F,7,3.0,standard,none
+Tabitha,F,Jeanne Farias,master's degree,50,67,73,F,8,1.0,free/reduced,none Sheri,F,Janella Dangelo,some high school,88,74,75,F,8,2.0,standard,completed Patty,F,Angelina Dunneback,associate's degree,59,62,69,F,8,1.0,standard,none
+Olga,F,Nella Denker,some high school,32,34,38,F,8,3.0,free/reduced,none Rickey,M,Bula Fenstermaker,high school,36,29,27,M,8,1.0,free/reduced,none Israel,M,Joshua Raminez,some high school,63,78,79,M,9,2.0,free/reduced,completed
+Alisha,F,Krysta Alsup,associate's
+degree,67,54,63,F,8,4.0,standard,completed"
+
+"Alberto,M,Toya Skow,some high school,65,78,82,M,7,5.0,standard,completed Santiago,M,Kimberli Harrington,master's degree,85,84,89,M,5,2.0,standard,none
+Julio,M,Erica Duden,high school,34,48,41,M,8,4.0,free/reduced,completed Kaden,M,Honey Binder,bachelor's degree,93,100,100,M,6,1.0,free/reduced,completed
+Abby,F,Hipolito Yamasaki,some high school,67,84,84,F,7,2.0,free/reduced,none
+Alana,F,Burma Deyoe,some college,88,77,77,F,8,3.0,standard,none Daniela,F,Wayne Earp,high school,57,48,51,F,5,2.0,standard,none Kaitlin,F,Guillermo Feltz,some college,79,84,91,F,6,4.0,standard,completed
+Myra,F,Debby Reynosa,bachelor's degree,67,75,72,F,7,1.0,free/reduced,none Roxanne,F,Oleta Kwong,bachelor's degree,70,64,70,F,8,2.0,standard,completed
+Caden,M,Phoebe Nestle,bachelor's degree,50,42,48,M,5,1.0,free/reduced,none
+Damien,M,Lyda Mcmunn,some college,69,84,82,M,6,2.0,standard,none Annabelle,F,Saturnina Albin,bachelor's degree,52,61,66,F,7,3.0,standard,completed
+Karina,F,Zoe Orndorff,bachelor's degree,47,62,66,F,8,4.0,free/reduced,completed Donnie,M,Robin Acheson,associate's degree,46,61,55,M,6,5.0,free/reduced,none
+Kendall,F,Rafaela Zamarripa,some college,68,70,66,F,7,6.0,standard,none Homer,M,Fransisca Rand,bachelor's degree,100,100,100,M,8,4.0,standard,completed
+Lyle,M,Foster Villicana,high school,44,61,52,M,7,1.0,standard,none Mallory,F,Penney Lachowicz,associate's degree,57,77,80,F,8,4.0,standard,completed
+Callie,F,Lovella Dao,some college,91,96,91,F,7,5.0,standard,completed Juliana,F,Harriet Woodrow,high school,69,70,67,F,6,1.0,free/reduced,none Josie,F,Harmony Ohair,high school,35,53,46,F,8,2.0,free/reduced,none Celeste,F,Ardelia Fritz,high school,72,66,66,F,7,3.0,standard,none Mckenzie,F,Twyla Kennemer,associate's degree,54,65,65,F,6,2.0,free/reduced,none
+Adeline,F,Noelia Gossard,high school,74,70,69,F,8,4.0,free/reduced,none Cassidy,F,Kasie Newbrough,some high school,74,64,60,F,7,1.0,standard,completed
+Gerard,M,Cristine Brook,associate's degree,64,56,52,M,6,5.0,free/reduced,none Aurora,F,Jaclyn Dodson,high school,65,61,71,F,8,6.0,free/reduced,completed Rex,M,Peter Looney,associate's degree,46,43,44,M,5,2.0,free/reduced,completed Enrique,M,Rosanna Rayburn,some high school,48,56,51,M,7,1.0,free/reduced,none Otis,M,Vivien Escalera,some college,67,74,70,M,8,3.0,free/reduced,completed
+Lilly,F,Cindi Kenley,some college,62,57,62,F,6,2.0,free/reduced,none Gage,M,Norman Earles,associate's degree,61,71,73,M,8,1.0,free/reduced,completed
+Jody,F,Kandice Lopez,bachelor's degree,70,75,74,F,7,4.0,free/reduced,completed Earnest,M,Dawna Moss,associate's degree,98,87,90,M,8,5.0,standard,completed
+Donovan,M,Ray Capp,some college,70,63,58,M,6,2.0,free/reduced,none
+Janelle,F,Keeley Harty,associate's degree,67,57,53,F,7,0.0,standard,none"
+
+"Serenity,F,Charlesetta Chae,high school,57,58,57,F,8,1.0,free/reduced,none Trenton,M,Jacquelyne Hibbler,some college,85,81,85,M,7,2.0,standard,completed Aimee,F,Anastasia Calderwood,some high school,77,68,69,F,6,4.0,standard,completed Kirsten,F,Ermelinda Mccluney,master's degree,72,66,72,F,8,5.0,free/reduced,completed
+Asher,M,Lucia Postel,master's degree,78,91,96,M,7,2.0,standard,none Hubert,M,Malinda Clubb,high school,81,66,64,M,7,1.0,standard,none Dianna,F,Evelynn Hughley,some high school,61,62,61,F,8,4.0,free/reduced,completed
+Cecelia,F,Tara Boxx,associate's degree,54,61,58,F,6,6.0,standard,none Dominique,F,Laverne Griffiths,high school,82,82,80,F,9,2.0,standard,none Mya,F,Kermit Stairs,some college,49,58,60,F,7,4.0,free/reduced,none Emmett,M,Toney Razor,some high school,49,50,52,M,8,5.0,free/reduced,completed
+Olive,F,Leatha Barfoot,high school,57,75,73,F,9,6.0,free/reduced,completed
+Wilbur,M,Gus Brawner,high school,94,73,71,M,7,2.0,standard,none Lacey,F,Judith Coggin,some college,75,77,83,F,8,1.0,standard,completed Liliana,F,Porter Bridge,some high school,74,74,72,F,9,2.0,free/reduced,none
+Mateo,M,Wilma Towne,high school,58,52,54,M,5,5.0,standard,completed Salvatore,M,Normand Kuehner,some college,62,69,69,M,7,4.0,standard,none Cara,F,Lashell Bibbs,associate's degree,72,57,62,F,8,2.0,standard,none Muriel,F,Collene Collado,some college,84,87,81,F,9,3.0,standard,none Alfredo,M,Janessa Conine,master's degree,92,100,100,M,7,6.0,standard,none Neal,M,Brigette Bloomfield,high school,45,63,59,M,8,4.0,standard,none Mikayla,F,Jerome Hunley,high school,75,81,71,F,7,1.0,standard,none Eliza,F,Avril Krogh,some college,56,58,64,F,5,2.0,standard,none Hayley,F,Kizzy Hinkle,some high school,48,54,53,F,6,3.0,free/reduced,none Nadine,F,Kristeen Patrick,associate's degree,100,100,100,F,7,6.0,standard,none
+Bernadette,F,Briana Feehan,some high school,65,76,75,F,8,5.0,free/reduced,completed
+Celia,F,Mica Biffle,some college,72,57,58,F,5,4.0,standard,none Arturo,M,Perla Myles,some college,62,70,72,M,6,1.0,standard,none Cristina,F,Lavern Bays,some high school,66,68,64,F,9,2.0,standard,completed
+Jan,F,Marietta Sun,some college,63,63,60,F,7,0.0,standard,none Jordyn,F,Jeri Buttner,associate's degree,68,76,67,F,6,1.0,standard,none Lana,F,Hang Hutter,bachelor's degree,75,84,80,F,9,2.0,standard,none Erma,F,Kimber Couture,bachelor's degree,89,100,100,F,7,5.0,standard,none Jaclyn,F,Creola Mcpeters,high school,53,50,60,F,9,1.0,free/reduced,completed
+Vicky,F,Bari Burkhardt,some college,49,65,61,F,7,3.0,free/reduced,none Caitlyn,F,Drucilla Bhakta,some college,54,63,67,F,8,6.0,standard,none Alec,M,Chara Messana,some college,64,82,77,M,9,4.0,standard,completed Gretchen,F,Inocencia Pfannenstiel,some college,60,62,60,F,5,1.0,free/reduced,completed
+Leland,M,Divina Goodson,associate's degree,62,65,58,M,7,2.0,standard,none Johanna,F,Britt Leclerc,high school,55,41,48,F,8,0.0,standard,completed Horace,M,Meryl Mast,associate's degree,91,95,94,M,9,1.0,standard,none Colby,M,Rufus Heldt,some high school,79,85,86,M,7,0.0,standard,completed Joey,M,Le Harbin,some college,78,87,91,M,5,2.0,standard,completed Abel,M,Stan Clow,some high school,74,75,82,M,6,0.0,standard,none
+Traci,F,Aundrea Hauff,high school,57,51,54,F,7,1.0,standard,none"
+
+"Kellie,F,Enola Hernandes,associate's degree,40,59,51,F,8,2.0,standard,none Estelle,F,Adriene Grabert,some high school,81,75,76,F,5,1.0,standard,completed Kerry,F,Hillary Daugherty,some high school,44,45,45,F,6,2.0,free/reduced,none
+Ira,M,Desire Sae,some college,67,86,83,M,9,1.0,free/reduced,completed Conner,M,Susie Neisler,high school,86,81,75,M,7,2.0,free/reduced,completed
+Payton,F,Nancy Garrow,some high school,65,82,78,F,8,1.0,standard,completed Wendell,M,Margit Swing,associate's degree,55,76,76,M,6,3.0,free/reduced,none Ezra,M,Carmine Cogdill,bachelor's degree,62,72,74,M,7,4.0,free/reduced,none
+Trent,M,Shaunda Amburn,high school,63,63,62,M,8,1.0,standard,none Eloise,F,Melva Police,master's degree,88,99,95,F,9,0.0,standard,completed Rudolph,M,Billie Pitre,high school,62,55,55,M,5,2.0,free/reduced,none Aria,F,Shiloh Guilliams,high school,59,71,65,F,7,1.0,free/reduced,completed
+Ivy,F,Selena Prideaux,some college,68,78,77,F,8,5.0,standard,completed
+Graham,M,Rutha Starnes,some college,77,86,86,M,10,1.0,free/reduced,none"
